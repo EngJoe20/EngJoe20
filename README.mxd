@@ -1,0 +1,96 @@
+<!-- README for EngJoe's repository -->
+
+<h1 align="center">Hi 👋 I'm Youssef (Eng Joe)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&color=FFD600&width=700&lines=Software+Engineer;Competitive+Programmer;Content+Creator" alt="typing animation" />
+</p>
+
+<p align="center">
+  <strong>Junior Computer & Systems Engineering student — Helwan University</strong><br/>
+  <em>Passionate about problem solving, web development, and sharing knowledge.</em>
+</p>
+
+---
+
+## About Me
+
+- 🎓 **Junior Computer & Systems Engineering** — Expected graduation: 2027  
+- 💻 Primary languages & tools: **C++**, **Python**, **Java**, **HTML/CSS/JS**, Git, GitHub, Ubuntu  
+- 🧩 Interests: Competitive Programming (Codeforces), Web Hosting & Security, Content Creation (YouTube: @Eng.Joe9)  
+- 📫 Contact: **yuossefrbrahem211@gmail.com**  
+
+---
+
+## Skills & Tools
+
+- **Languages:** C++, Python, Java, JavaScript, SQL  
+- **Web:** HTML, CSS, Bootstrap, JS  
+- **Tools:** Git, GitHub, VS Code, Linux (Ubuntu)  
+- **Others:** JavaFX, SQL Databases, Apache (hosting), Wireshark (HTTP analysis)
+
+---
+
+## Featured Projects
+
+- **Sales Management System** — C++ team project for handling sales, inventory, invoices.  
+- **Java Chat App** — JavaFX client with SQL backend.  
+- **Personal websites & UI components** — HTML/CSS/JS practice projects.
+
+---
+
+## GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngJoe&show_icons=true&theme=default" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngJoe&theme=default" height="140" />
+</p>
+
+---
+
+## Animations / Visuals (MXD-friendly)
+
+You asked for **"mxd" for animation** — I'll assume you want animated visuals in your profile README. GitHub supports GIFs and dynamic SVG embeds. Below are ready-to-use ideas and files you can add to your repo:
+
+### What I included (ready to use)
+1. **Typing SVG** (already embedded at the top) — dynamic text animation.
+2. **GitHub stats** (live images) — shows commits and streaks.
+3. **Animated GIF section** — add a GIF named `profile-animation.gif` in the repo root and embed it like this:
+
+```md
+<p align="center">
+  <img src="profile-animation.gif" alt="profile animation" width="600"/>
+</p>
+```
+
+### MXD / Motion workflow suggestion
+- If by *mxd* you mean a motion/animation file (or an exported GIF/MP4), create your animation in After Effects / Blender / Web-based Lottie and export:
+  - Small **GIF** (recommended for README): `profile-animation.gif` (keep under ~2-3 MB)
+  - Or host an MP4/animated SVG externally and embed a GIF preview in README linking to the full animation.
+- Put exported assets in a folder: `/assets/animations/` and reference them in the README.
+
+---
+
+## How to use this README
+
+1. Create a repository with the **same name as your GitHub username** (this makes it appear on your profile).  
+   Example repo name: `EngJoe`
+
+2. Add this file as `README.md` in that repository root.
+
+3. Replace any placeholders (if needed) — `EngJoe` is already set to a best-guess username.
+
+4. If you have an animation GIF, upload it to the repo and embed it where the GIF example is shown.
+
+---
+
+## Want me to finish everything for you?
+
+I can also:
+- ✅ Replace `EngJoe` with your real GitHub username (if different).  
+- ✅ Add a ready-made `profile-animation.gif` (I can generate an animated SVG/GIF for you).  
+- ✅ Add badges, project links, and a project showcase with screenshots.  
+- ✅ Push the README directly into a repo if you give me the repo name.
+
+---
+
+Thanks for trusting me to build your profile README — tell me which of the extra items you'd like me to add now (I can embed an example GIF or generate a simple animated SVG for you).  
