@@ -1,96 +1,67 @@
-<!-- README for EngJoe's repository -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFD600&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'am+Eng+Joe;Software+Engineer+%7C+Competitive+Programmer+%7C+Content+Creator)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋 I'm Youssef (Eng Joe)</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=28&pause=1000&color=FFD600&width=700&lines=Software+Engineer;Competitive+Programmer;Content+Creator" alt="typing animation" />
-</p>
-
-<p align="center">
-  <strong>Junior Computer & Systems Engineering student — Helwan University</strong><br/>
-  <em>Passionate about problem solving, web development, and sharing knowledge.</em>
-</p>
+<h1 align="center">Hi there 👋, I'm Eng Joe</h1>
+<h3 align="center">A passionate Computer & Systems Engineering student at Helwan University</h3>
 
 ---
 
-## About Me
-
-- 🎓 **Junior Computer & Systems Engineering** — Expected graduation: 2027  
-- 💻 Primary languages & tools: **C++**, **Python**, **Java**, **HTML/CSS/JS**, Git, GitHub, Ubuntu  
-- 🧩 Interests: Competitive Programming (Codeforces), Web Hosting & Security, Content Creation (YouTube: @Eng.Joe9)  
-- 📫 Contact: **yuossefrbrahem211@gmail.com**  
-
----
-
-## Skills & Tools
-
-- **Languages:** C++, Python, Java, JavaScript, SQL  
-- **Web:** HTML, CSS, Bootstrap, JS  
-- **Tools:** Git, GitHub, VS Code, Linux (Ubuntu)  
-- **Others:** JavaFX, SQL Databases, Apache (hosting), Wireshark (HTTP analysis)
+### 🧠 About Me
+- 🎓 Junior **Computer & Systems Engineering** — Expected Graduation 2027  
+- 💻 Passionate about **C++**, **Python**, **Web Development**, and **Problem Solving**
+- 🎥 I enjoy **content creation** and helping others learn programming
+- ⚡ Always learning something new and improving every day  
 
 ---
 
-## Featured Projects
+### 💼 Highlight Projects
 
-- **Sales Management System** — C++ team project for handling sales, inventory, invoices.  
-- **Java Chat App** — JavaFX client with SQL backend.  
-- **Personal websites & UI components** — HTML/CSS/JS practice projects.
+#### Sales Management System
+Team project built using C++ to manage sales, inventory, and invoices efficiently.
+
+#### JavaFX Chat Application
+Chat system with SQL database — implemented authentication and messaging features.
 
 ---
 
-## GitHub Stats & Activity
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngJoe&show_icons=true&theme=default" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngJoe&theme=default" height="140" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## Animations / Visuals (MXD-friendly)
+### 📈 GitHub Stats
 
-You asked for **"mxd" for animation** — I'll assume you want animated visuals in your profile README. GitHub supports GIFs and dynamic SVG embeds. Below are ready-to-use ideas and files you can add to your repo:
-
-### What I included (ready to use)
-1. **Typing SVG** (already embedded at the top) — dynamic text animation.
-2. **GitHub stats** (live images) — shows commits and streaks.
-3. **Animated GIF section** — add a GIF named `profile-animation.gif` in the repo root and embed it like this:
-
-```md
 <p align="center">
-  <img src="profile-animation.gif" alt="profile animation" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Joe&show_icons=true&theme=dark&title_color=FFD600&icon_color=FFD600" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Joe&theme=dark&ring=FFD600&fire=FFD600&currStreakLabel=FFD600" height="150"/>
 </p>
-```
-
-### MXD / Motion workflow suggestion
-- If by *mxd* you mean a motion/animation file (or an exported GIF/MP4), create your animation in After Effects / Blender / Web-based Lottie and export:
-  - Small **GIF** (recommended for README): `profile-animation.gif` (keep under ~2-3 MB)
-  - Or host an MP4/animated SVG externally and embed a GIF preview in README linking to the full animation.
-- Put exported assets in a folder: `/assets/animations/` and reference them in the README.
 
 ---
 
-## How to use this README
+### 📫 Connect with Me
 
-1. Create a repository with the **same name as your GitHub username** (this makes it appear on your profile).  
-   Example repo name: `EngJoe`
-
-2. Add this file as `README.md` in that repository root.
-
-3. Replace any placeholders (if needed) — `EngJoe` is already set to a best-guess username.
-
-4. If you have an animation GIF, upload it to the repo and embed it where the GIF example is shown.
-
----
-
-## Want me to finish everything for you?
-
-I can also:
-- ✅ Replace `EngJoe` with your real GitHub username (if different).  
-- ✅ Add a ready-made `profile-animation.gif` (I can generate an animated SVG/GIF for you).  
-- ✅ Add badges, project links, and a project showcase with screenshots.  
-- ✅ Push the README directly into a repo if you give me the repo name.
+<p align="center">
+  <a href="mailto:yuossefrbrahem211@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@Eng.Joe9">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-Thanks for trusting me to build your profile README — tell me which of the extra items you'd like me to add now (I can embed an example GIF or generate a simple animated SVG for you).  
+⭐ Don't forget to leave a star if you like my work!  
