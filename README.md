@@ -4,23 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Ebrahim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <!-- Dynamic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=28
-&duration=3000
-&pause=1000
-&color=3DFFEF
-&center=true
-&vCenter=true
-&width=800
-&height=60
-&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;
-Building+Scalable+Systems+%F0%9F%9A%80;
-Backend+%7C+Full-Stack+%7C+Problem+Solver+%F0%9F%92%BB;
-Turning+Coffee+into+Code+%E2%98%95%E2%9C%A8"
-alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3DFFEF&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Scalable+Systems+%F0%9F%9A%80;Backend+%7C+Full-Stack+%7C+Problem+Solver+%F0%9F%92%BB;Turning+Coffee+into+Code+%E2%98%95%E2%9C%A8" alt="Typing SVG" /></a>
+
 
 
 <br/>
