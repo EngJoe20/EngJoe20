@@ -1,26 +1,19 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/AbdallahHemdan/AbdallahHemdan/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b)
 
-
 <div align="center">
 
-<!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Ebrahim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-<!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3DFFEF&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Scalable+Systems+%F0%9F%9A%80;Backend+%7C+Full-Stack+%7C+Problem+Solver+%F0%9F%92%BB;Turning+Coffee+into+Code+%E2%98%95%E2%9C%A8" alt="Typing SVG" /></a>
-
-
 
 <br/>
 
-<!-- Animated Profile Views & Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eng-Joe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Eng-Joe?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Eng-Joe?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
-<!-- Social Media Buttons with Hover Animation -->
 <p align="center">
   <a href="https://www.youtube.com/@Eng.Joe9">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=CE1312" alt="YouTube"/>
@@ -31,7 +24,7 @@
   <a href="mailto:yuossefebrahem211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="tel:+201027996547">
+  <a href="https://wa.me/201027996547">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
@@ -44,62 +37,55 @@
 
 ```typescript
 class YoussefEbrahim {
-    // Personal Info
-    readonly name = "Youssef Ebrahim Mostafa";
-    readonly role = "Software Engineer | Backend Developer";
+    readonly name     = "Youssef Ebrahim Mostafa";
+    readonly role     = "Software Engineer | Backend Developer";
     readonly location = "Giza, Egypt 🇪🇬";
-    readonly phone = "+20 1027996547";
-    
-    // Education
+    readonly phone    = "+20 1027996547";
+
     education = {
-        degree: "Bachelor of Computer & Systems Engineering",
-        university: "Helwan University",
-        graduation: 2027,
-        gpa: "Excellent (86.57%)",
+        degree:       "Bachelor of Computer & Systems Engineering",
+        university:   "Helwan University",
+        graduation:   2027,
+        gpa:          "Excellent (86.57%)",
         currentLevel: "Junior (3rd Year)"
     };
-    
-    // Technical Arsenal
+
     techStack = {
-        backend: ["PHP", "Laravel", "C#", ".NET", "Python", "Django", "Flask"],
-        frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Blade", "Twig"],
-        database: ["MySQL", "SQLite", "SQL Server"],
-        tools: ["Git", "GitHub", "Postman", "VS Code", "Linux"],
-        concepts: ["OOP", "MVC", "REST API", "System Architecture", "SOLID Principles"]
+        backend:   ["PHP", "Laravel", "C#", ".NET", "Python", "Django", "Flask"],
+        frontend:  ["HTML5", "CSS3", "JavaScript", "Bootstrap", "AJAX", "Blade", "Twig"],
+        database:  ["MySQL", "SQLite", "SQL Server"],
+        tools:     ["Git", "GitHub", "Postman", "VS Code", "Linux"],
+        concepts:  ["OOP", "MVC", "REST API", "System Architecture", "SOLID Principles", "Debugging"]
     };
-    
-    // Current Status
+
     currentlyWorkingOn = [
-        "🚀 Freelance Backend Projects (6+ delivered)",
-        "🎓 Full-Stack .NET Development @ DEPI",
-        "💡 Building MaestroMart & Wbridge platforms",
-        "🎥 Creating educational content on YouTube"
+        "🚀 BasmaFlow – HR Payroll & Attendance System (Laravel)",
+        "🎓 Eduverseplus – Dynamic Dashboard Platform (Laravel)",
+        "💡 Freelance Backend Projects (6+ delivered)",
+        "🎥 Educational content on YouTube"
     ];
-    
-    // Fun Facts
+
     funFacts = {
-        languages: { arabic: "Native", english: "Excellent" },
+        languages:  { arabic: "Native", english: "Excellent" },
         motivation: "Turning requirements into reality ☕💻",
-        passion: "Building scalable, maintainable systems",
-        goal: "Seeking mentorship & innovative collaborations"
+        passion:    "Building scalable, maintainable systems",
+        goal:       "Seeking mentorship & innovative collaborations"
     };
-    
-    // Contact Methods
+
     getInTouch = () => ({
-        email: "yuossefebrahem211@gmail.com",
-        linkedin: "linkedin.com/in/youssefebrahim-7a183a263",
-        youtube: "youtube.com/@Eng.Joe9",
+        email:        "yuossefebrahem211@gmail.com",
+        linkedin:     "linkedin.com/in/youssefebrahim-7a183a263",
+        youtube:      "youtube.com/@Eng.Joe9",
         availability: "Open for opportunities! 📩"
     });
 }
 
-const engineer = new YoussefEbrahim();
 console.log("🌟 Let's build something amazing together!");
 ```
 
 <div align="center">
 
-### 🎯 **Current Focus** 
+### 🎯 **Current Focus**
 
 <table>
   <tr>
@@ -172,9 +158,10 @@ console.log("🌟 Let's build something amazing together!");
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-87C900?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### 🗄️ Database & Storage
 
@@ -227,13 +214,58 @@ console.log("🌟 Let's build something amazing together!");
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 **MaestroMart**
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://maestromartv2.al-barbari.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://maestromartv2.al-barbari.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://maestromartv2.al-barbari.com)
+### 💸 **BasmaFlow**
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://basmaflow.al-barbari.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://basmaflow.al-barbari.com)
 
-**Comprehensive Warehouse Management System**  
-*Apr - May 2025*
+**HR Payroll & Attendance System**  
+*Mar 2026 – Present*
+
+A powerful HR platform that automates salary processing and tracks employee attendance, intelligently handling missed and duplicate punches.
+
+**🎯 Key Features:**
+- ✅ Automated salary computation
+- ✅ Attendance tracking with anomaly detection
+- ✅ Missed & duplicate punch handling
+- ✅ Role-based access control
+- ✅ Reports & payroll dashboards
+- ✅ Scalable multi-company architecture
+
+**🔗 [Live Demo](https://basmaflow.al-barbari.com)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 **Eduverseplus**
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://eduverseplus.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://eduverseplus.com)
+
+**Dynamic Dashboard Platform**  
+*Nov 2025 – Present*
+
+A scalable, fully dynamic dashboard platform built for managing and connecting a global user base with a clean, responsive admin interface.
+
+**🎯 Key Features:**
+- ✅ Fully dynamic content management
+- ✅ Multi-role dashboard system
+- ✅ Scalable architecture
+- ✅ Clean admin panel
+- ✅ Real-time data updates
+
+**🔗 [Live Demo](https://eduverseplus.com)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 **MaestroMart**
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://maestromart.al-barbari.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://maestromart.al-barbari.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://maestromart.al-barbari.com)
+
+**ERP-Powered Warehouse Management System**  
+*Apr – May 2025*
 
 A robust inventory and sales management platform designed for supermarkets and wholesalers with real-time tracking capabilities.
 
@@ -244,16 +276,9 @@ A robust inventory and sales management platform designed for supermarkets and w
 - ✅ Multi-user role-based access control
 - ✅ Invoice generation & management
 - ✅ Supplier & customer management
-- ✅ Barcode integration support
 
-**🔗 [Live Demo](https://maestromartv2.al-barbari.com)**  
+**🔗 [Live Demo](https://maestromart.al-barbari.com)**  
 **🔑 Credentials:** `admin@admin.com` / `admin`
-
-**💡 Tech Highlights:**
-- RESTful API architecture
-- Secure authentication system
-- Optimized database queries
-- Responsive dashboard design
 
 </td>
 <td width="50%" valign="top">
@@ -264,89 +289,19 @@ A robust inventory and sales management platform designed for supermarkets and w
 [![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://w-bridge.org)
 
 **International Shopping Platform**  
-*Feb - May 2025*
+*Feb – May 2025*
 
-Revolutionary real-time platform connecting product buyers with international travelers for seamless cross-border shopping experiences.
+Real-time platform connecting product buyers with international travelers for seamless cross-border shopping experiences.
 
 **🎯 Key Features:**
 - ✅ Smart matching algorithm (Buyer ↔️ Traveler)
 - ✅ Real-time notification system
-- ✅ Secure user authentication & verification
-- ✅ Product request management
+- ✅ Secure authentication & verification
 - ✅ Transaction tracking & escrow
 - ✅ Rating & review system
 - ✅ Multi-currency support
 
 **🔗 [Live Demo](https://w-bridge.org)**
-
-**💡 Tech Highlights:**
-- Real-time data synchronization
-- Geolocation integration
-- Secure payment gateway ready
-- Mobile-responsive interface
-- Advanced search & filtering
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 **Sales Management System**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat-square)
-
-**Desktop Application for Sales Operations**
-
-Collaborative team project for comprehensive sales, inventory, and invoice management with efficient data structures.
-
-**🎯 Key Features:**
-- ✅ Complete CRUD operations
-- ✅ Inventory tracking & alerts
-- ✅ Automated invoice generation
-- ✅ Sales analytics & reports
-- ✅ Multi-user access levels
-- ✅ Data persistence & backup
-
-**💡 Tech Highlights:**
-- Object-oriented design
-- File-based database
-- Efficient algorithms
-- Clean architecture
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 **JavaFX Chat Application**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square)
-
-**Real-Time Messaging System**
-
-Fully-featured chat application with modern UI design and database integration for message persistence.
-
-**🎯 Key Features:**
-- ✅ User authentication & authorization
-- ✅ Real-time messaging
-- ✅ Message history & search
-- ✅ Online/offline status
-- ✅ Group chat support
-- ✅ File sharing capability
-
-**💡 Tech Highlights:**
-- Socket programming
-- Multi-threading
-- MVC architecture
-- Modern JavaFX UI
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🔧 **More Projects Coming Soon...**
-
-Currently working on exciting new projects in Laravel, .NET, and Python. Stay tuned! 🚀
 
 </td>
 </tr>
@@ -362,31 +317,32 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 <tr>
 <td width="33%" align="center">
 
-### 💻 Freelance Backend Developer
-**Dec 2024 - Present** | Remote
+### 💻 Freelance Software Engineer
+**Dec 2024 – Present** | Remote
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
 
 ✅ **4+** Laravel Projects  
 ✅ **2+** Frontend Projects  
-✅ **100%** Client Satisfaction  
-✅ Scalable & Maintainable Code
+✅ **3** Enhanced Existing Systems  
+✅ **100%** Client Satisfaction
 
-**Key Achievements:**
-- Built production-ready applications
-- Implemented secure authentication
-- Optimized database performance
-- Delivered on time & within budget
+**Key Deliverables:**
+- Production-ready Laravel apps
+- Frontend work with HTML, CSS, JS & Twig
+- Secure authentication systems
+- Database design & optimization
 
 </td>
 <td width="33%" align="center">
 
-### 🎓 DEPI Training
-**Jun 2025 - Present**
+### 🎓 DEPI – Full Stack .NET
+**Jun 2025 – Dec 2025**
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
 
-**Full Stack .NET Development**  
+**Full Stack .NET Web Development**  
+*Digital Egypt Pioneers Initiative*  
 *Ministry of Communications & IT*
 
 **Learning:**
@@ -394,26 +350,24 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 - Entity Framework Core
 - SQL Server
 - RESTful APIs
-- Modern Web Development
 
 </td>
 <td width="33%" align="center">
 
-### 🏢 ITI Training
-**Aug - Sep 2025**
+### 🏢 ITI – .NET & Python
+**Aug – Oct 2025**
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
 
 **Multi-Track Training**
 
-✅ **.NET Web Development** (Sep 2025)  
-✅ **Django & Flask** (Aug 2025)
+✅ **.NET Web Development** (Sep – Oct 2025)  
+✅ **Django & Flask** (Aug – Sep 2025)
 
 **Skills Gained:**
-- Full-stack development
-- Python frameworks
+- Full-stack .NET development
+- Python web frameworks
 - Database management
-- Version control
 
 </td>
 </tr>
@@ -421,15 +375,14 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 <td width="33%" align="center">
 
 ### 🔐 WE INNOVATE
-**Aug - Sep 2024**
+**Aug – Sep 2024**
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80"/>
 
 **GRC Cybersecurity Bootcamp**
 
-**Focus Areas:**
 - Governance frameworks
-- Risk assessment
+- Risk assessment & management
 - Compliance standards
 - Security policies
 - Incident response
@@ -438,15 +391,14 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 <td width="33%" align="center">
 
 ### 🏛️ Helwan University
-**Jun - Jul 2024**
+**Jun – Jul 2024**
 
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80"/>
 
 **Summer Training Program**
 
-**Topics Covered:**
 - Software fundamentals
-- System architecture
+- Hands-on system design
 - Design patterns
 - Best practices
 - Team collaboration
@@ -461,11 +413,10 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 
 **YouTube Channel: Eng.Joe9**
 
-**Creating:**
 - Programming tutorials
 - Code walkthroughs
-- Tech tips & tricks
 - Project showcases
+- Tech tips & tricks
 - Learning resources
 
 </td>
@@ -488,14 +439,6 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 
 </div>
 
-### 🔥 Contribution Heatmap
-
-<div align="center">
-  
-<img src="https://ghchart.rshah.org/F85D7F/Eng-Joe" alt="Contribution Chart" width="90%"/>
-
-</div>
-
 ---
 
 ## 🏆 Achievements & Trophies
@@ -504,20 +447,18 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 
 <img src="https://github-profile-trophy.vercel.app/?username=Eng-Joe&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars" alt="GitHub Trophies"/>
 
-### 📈 Current Streak Status
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total%20Projects-10+-F85D7F?style=for-the-badge" alt="Projects"/>
-      <br/><strong>Delivered</strong>
+      <img src="https://img.shields.io/badge/Live%20Projects-4+-F85D7F?style=for-the-badge" alt="Projects"/>
+      <br/><strong>In Production</strong>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Client%20Projects-6+-F8D866?style=for-the-badge" alt="Clients"/>
       <br/><strong>Satisfied Clients</strong>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Languages-6+-00D9FF?style=for-the-badge" alt="Languages"/>
+      <img src="https://img.shields.io/badge/Languages-5+-00D9FF?style=for-the-badge" alt="Languages"/>
       <br/><strong>Mastered</strong>
     </td>
     <td align="center">
@@ -550,8 +491,8 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
   <strong>Full Stack .NET Development</strong>
 </td>
 <td>DEPI (Ministry of Communications & IT)</td>
-<td>Jun 2025 - Present</td>
-<td><img src="https://img.shields.io/badge/Status-In%20Progress-00D9FF?style=flat-square"/></td>
+<td>Jun – Dec 2025</td>
+<td><img src="https://img.shields.io/badge/Status-Completed-00FF00?style=flat-square"/></td>
 </tr>
 <tr>
 <td>
@@ -559,7 +500,7 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
   <strong>.NET Web Development</strong>
 </td>
 <td>Information Technology Institute (ITI)</td>
-<td>Sep 2025</td>
+<td>Sep – Oct 2025</td>
 <td><img src="https://img.shields.io/badge/Status-Completed-00FF00?style=flat-square"/></td>
 </tr>
 <tr>
@@ -568,7 +509,7 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
   <strong>Django & Flask Development</strong>
 </td>
 <td>Information Technology Institute (ITI)</td>
-<td>Aug 2025</td>
+<td>Aug – Sep 2025</td>
 <td><img src="https://img.shields.io/badge/Status-Completed-00FF00?style=flat-square"/></td>
 </tr>
 <tr>
@@ -577,7 +518,7 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
   <strong>GRC Cybersecurity Bootcamp</strong>
 </td>
 <td>WE INNOVATE</td>
-<td>Aug - Sep 2024</td>
+<td>Aug – Sep 2024</td>
 <td><img src="https://img.shields.io/badge/Status-Completed-00FF00?style=flat-square"/></td>
 </tr>
 <tr>
@@ -586,7 +527,7 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
   <strong>Software Fundamentals Training</strong>
 </td>
 <td>Helwan University</td>
-<td>Jun - Jul 2024</td>
+<td>Jun – Jul 2024</td>
 <td><img src="https://img.shields.io/badge/Status-Completed-00FF00?style=flat-square"/></td>
 </tr>
 <tr>
@@ -612,13 +553,13 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 <tr>
 <td><strong>Bachelor of Computer & Systems Engineering</strong></td>
 <td>Helwan University, Faculty of Engineering</td>
-<td>Oct 2022 - Jun 2027 (Expected)</td>
+<td>Oct 2022 – Jun 2027 (Expected)</td>
 <td><strong>Excellent (86.57%)</strong></td>
 </tr>
 <tr>
-<td><strong>High School - Thanaweya Amma</strong></td>
+<td><strong>High School – Thanaweya Amma</strong></td>
 <td>Saidia Military Secondary School for Boys</td>
-<td>Sep 2018 - Jun 2022</td>
+<td>Sep 2018 – Jun 2022</td>
 <td><strong>Graduated</strong></td>
 </tr>
 </table>
@@ -657,7 +598,7 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 <br/>
 <code>MVC</code> <code>REST API</code>
 <br/>
-<code>Design Patterns</code> <code>SOLID</code>
+<code>OOP</code> <code>Debugging</code>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/>
@@ -665,7 +606,7 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 <br/>
 <code>Git</code> <code>GitHub</code>
 <br/>
-<code>Collaboration</code> <code>CI/CD</code>
+<code>Collaboration</code>
 </td>
 </tr>
 </table>
@@ -677,75 +618,30 @@ Currently working on exciting new projects in Laravel, .NET, and Python. Stay tu
 <td align="center" width="20%">
 <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50"/>
 <br/><strong>Teamwork</strong>
-<br/>
-<sub>Collaborative Spirit</sub>
+<br/><sub>Collaborative Spirit</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="50"/>
 <br/><strong>Leadership</strong>
-<br/>
-<sub>Project Management</sub>
+<br/><sub>Project Management</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="50"/>
 <br/><strong>Problem Solving</strong>
-<br/>
-<sub>Critical Thinking</sub>
+<br/><sub>Critical Thinking</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="50"/>
 <br/><strong>Fast Learning</strong>
-<br/>
-<sub>Adaptability</sub>
+<br/><sub>Adaptability</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"/>
 <br/><strong>Communication</strong>
-<br/>
-<sub>Clear & Effective</sub>
+<br/><sub>Clear & Effective</sub>
 </td>
 </tr>
 </table>
-
-### 📚 Knowledge Areas
-
-```mermaid
-mindmap
-  root((Youssef Ebrahim))
-    Backend Development
-      PHP & Laravel
-      C# & .NET
-      Python Django/Flask
-      RESTful APIs
-    Database Management
-      MySQL
-      SQL Server
-      SQLite
-      Database Design
-    Frontend Skills
-      HTML5 & CSS3
-      JavaScript
-      Bootstrap
-      Responsive Design
-    Software Engineering
-      OOP Principles
-      MVC Architecture
-      Design Patterns
-      SOLID Principles
-    Tools & DevOps
-      Git & GitHub
-      Linux
-      Postman
-      VS Code
-```
-
-</div>
-
----
-
-## 🎨 Skills Visualization
-
-<div align="center">
 
 ### 💻 Programming Proficiency
 
@@ -754,49 +650,17 @@ mindmap
 ### 📊 Skill Level Distribution
 
 ```text
-Backend Development  ████████████████████  100%
-Laravel Framework    ███████████████████   95%
-.NET Development     ██████████████████    90%
-Python Web Frameworks███████████████████   95%
-Database Management  ███████████████████   95%
-Frontend Development ████████████████      80%
-System Architecture  ██████████████████    90%
-Git & Version Control████████████████████  100%
-Problem Solving      ████████████████████  100%
-Team Collaboration   ███████████████████   95%
+Backend Development   ████████████████████  100%
+Laravel Framework     ███████████████████   95%
+.NET Development      ██████████████████    90%
+Python Web Frameworks ███████████████████   95%
+Database Management   ███████████████████   95%
+Frontend Development  ████████████████      80%
+System Architecture   ██████████████████    90%
+Git & Version Control ████████████████████  100%
+Problem Solving       ████████████████████  100%
+Team Collaboration    ███████████████████   95%
 ```
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will be auto-updated by GitHub Actions -->
-<!--END_SECTION:activity-->
-
-### 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-Joe/Eng-Joe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-Joe/Eng-Joe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eng-Joe/Eng-Joe/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_bg_color=0D1117&border_color=F85D7F" alt="Random Dev Quote"/>
 
 </div>
 
@@ -815,7 +679,7 @@ Team Collaboration   ███████████████████  
 
 - ✅ Complete DEPI .NET Training
 - 🔄 Master ASP.NET Core
-- 🔄 Build 5+ Full-Stack Projects
+- 🔄 Ship BasmaFlow & Eduverseplus
 - 🔄 Contribute to Open Source
 - 🔄 Obtain Professional Certifications
 
@@ -855,7 +719,7 @@ Team Collaboration   ███████████████████  
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
 
 ### 💬 **I'm Open To:**
 
@@ -864,20 +728,17 @@ Team Collaboration   ███████████████████  
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
 <br/><strong>💼 Freelance Projects</strong>
-<br/>
-<sub>Backend Development<br/>Full-Stack Solutions</sub>
+<br/><sub>Backend Development<br/>Full-Stack Solutions</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
 <br/><strong>🤝 Collaboration</strong>
-<br/>
-<sub>Open Source<br/>Team Projects</sub>
+<br/><sub>Open Source<br/>Team Projects</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80"/>
 <br/><strong>🎓 Mentorship</strong>
-<br/>
-<sub>Learning Opportunities<br/>Knowledge Sharing</sub>
+<br/><sub>Learning Opportunities<br/>Knowledge Sharing</sub>
 </td>
 </tr>
 </table>
@@ -896,25 +757,9 @@ Team Collaboration   ███████████████████  
 <a href="https://wa.me/201027996547">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-<a href="tel:+201027996547">
-  <img src="https://img.shields.io/badge/Call-34B7F1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-</a>
 
 ### 📍 **Location:** Giza, Egypt 🇪🇬
-
-### ⏰ **Availability:** Open for opportunities! Ready to start immediately 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-### 💼 **Topics I Love to Discuss:**
-
-`Backend Architecture` • `System Design` • `Laravel Best Practices` • `.NET Development` • `Database Optimization` • `API Design` • `Code Quality` • `DevOps` • `Tech Trends` • `Career Growth`
-
-<br/>
-
-### 🎯 **Quick Facts:**
+### ⏰ **Availability:** Open for opportunities — ready to start immediately 🚀
 
 <table>
 <tr>
@@ -923,7 +768,7 @@ Team Collaboration   ███████████████████  
 <td align="center">💻 <strong>Work Style:</strong> Remote-Friendly</td>
 </tr>
 <tr>
-<td align="center">🗣️ <strong>Languages:</strong> Arabic (Native), English (Fluent)</td>
+<td align="center">🗣️ <strong>Languages:</strong> Arabic (Native), English (Excellent R/W, Very Good L/S)</td>
 <td align="center">🎓 <strong>Learning:</strong> Always exploring new tech</td>
 <td align="center">☕ <strong>Powered By:</strong> Coffee & Code</td>
 </tr>
@@ -933,97 +778,11 @@ Team Collaboration   ███████████████████  
 
 ---
 
-## 🎨 Visitor's Book
+## 💡 Random Dev Quote
 
 <div align="center">
 
-### ✍️ Leave your mark! Drop a message or just say hi! 👋
-
-<a href="https://github.com/Eng-Joe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Don't+forget+to+star+my+repositories!+%E2%AD%90;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-### 📊 Profile Statistics
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=Eng-Joe&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/github/followers/Eng-Joe?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Followers"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/github/stars/Eng-Joe?label=Stars&style=for-the-badge&color=F8D866&labelColor=0D1117" alt="Stars"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌟 Support My Work
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif" width="100"/>
-
-### If you find my projects helpful, consider:
-
-⭐ **Starring** my repositories  
-👁️ **Following** me on GitHub  
-🔗 **Connecting** on LinkedIn  
-📺 **Subscribing** to my YouTube channel  
-💬 **Sharing** my work with others  
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
-<br/>
-<strong>Every star ⭐ motivates me<br/>to create better projects!</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Latest Blog Posts & Content
-
-<div align="center">
-
-### 🎥 YouTube Channel: Eng.Joe9
-
-<!-- YOUTUBE:START -->
-*Coming Soon: Programming tutorials, project walkthroughs, and tech insights!*
-<!-- YOUTUBE:END -->
-
-<a href="https://www.youtube.com/@Eng.Joe9">
-  <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
-</a>
-
-</div>
-
----
-
-## 🎭 Fun Zone
-
-<div align="center">
-
-### 😄 Developer Jokes
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=F85D7F&qColor=F8D866&aColor=00D9FF" alt="Jokes Card" />
-
-### 🎵 Currently Listening To
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26y6qbqjqq5aaiyn5nrykqwsu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=F85D7F&bar_color_cover=true" alt="Spotify Now Playing" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_bg_color=0D1117&border_color=F85D7F" alt="Random Dev Quote"/>
 
 </div>
 
@@ -1039,41 +798,12 @@ Team Collaboration   ███████████████████  
 
 ---
 
-### 🚀 **Current Mission:** Transforming Ideas into Reality
-
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
-<br/>
-<sub><strong>Code Quality</strong></sub>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/>
-<br/>
-<sub><strong>Best Practices</strong></sub>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"/>
-<br/>
-<sub><strong>Innovation</strong></sub>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"/>
-<br/>
-<sub><strong>Continuous Learning</strong></sub>
-</td>
-</tr>
-</table>
-
----
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=Thanks+for+scrolling+all+the+way+down!+%F0%9F%8E%89;Let's+create+something+extraordinary+together!+%F0%9F%92%AB;Feel+free+to+reach+out+anytime!+%F0%9F%93%A7;Happy+Coding!+%E2%9C%A8" alt="Footer Typing SVG" />
 
 <br/>
 
 **✨ Crafted with 💛 by Youssef Ebrahim (Eng Joe) ✨**
 
-<sub>Last Updated: October 2025</sub>
+<sub>Last Updated: April 2026</sub>
 
 </div>
